@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4TN7J6562U.com.pcside.yoyakuro"],
+        "components": [
+          { "/": "/yoyakuro-pages/join*", "?": { "code": "*" } }
+        ]
+      }
+    ]
+  }
+}
